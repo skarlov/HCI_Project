@@ -13,7 +13,7 @@ Repository for the HCI project.
 
 ## Reference Number 0.0 (Home Page)
 
-![image](https://user-images.githubusercontent.com/56872071/146509107-3a9cc735-cd42-48dc-bff6-29fdbe01200e.png)
+![image](https://user-images.githubusercontent.com/56872071/146509934-49acb999-b880-4cd4-b53c-654bf03f447d.png)
 
 ## Reference Number 1.0 (About Page)
 
