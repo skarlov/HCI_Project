@@ -7,7 +7,7 @@ Repository for the HCI project.
 
 ## Sitemap with Reference Numbers
 
-![image](https://user-images.githubusercontent.com/56872071/141194749-311bfbba-2b5d-49d0-a3b0-c5759442a6f8.png)
+![image](https://user-images.githubusercontent.com/56872071/146509743-5d547c1e-98ae-481f-85f1-edec53b9a3c4.png)
 
 # Wireframes
 
