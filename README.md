@@ -3,7 +3,7 @@ Repository for the HCI project.
 
 # **Basic Sitemap**
 
-![image](https://user-images.githubusercontent.com/56872071/141194996-a9d6e16a-3deb-4060-95a3-31e9476089a4.png)
+![image](https://user-images.githubusercontent.com/56872071/146509008-6540ef04-f40d-4e28-afe1-58cde0293bf8.png)
 
 ## Sitemap with Reference Numbers
 
@@ -13,7 +13,7 @@ Repository for the HCI project.
 
 ## Reference Number 0.0 (Home Page)
 
-![image](https://user-images.githubusercontent.com/56872071/141195125-c9c7c58f-9488-4ab5-a7c3-68cf22e717fa.png)
+![image](https://user-images.githubusercontent.com/56872071/146509107-3a9cc735-cd42-48dc-bff6-29fdbe01200e.png)
 
 ## Reference Number 1.0 (About Page)
 
@@ -51,13 +51,13 @@ Repository for the HCI project.
 
 ![image](https://user-images.githubusercontent.com/56872071/141195648-47cff961-3f6a-4028-ace9-7de1e92e7c30.png)
 
-### Reference Number 4.1 (Merchandise Page)
+### Reference Number 4.1 (Products Page)
 
-![image](https://user-images.githubusercontent.com/56872071/141195686-18b9ba5b-b6ca-41d7-993e-c83816e36d70.png)
+![image](https://user-images.githubusercontent.com/56872071/146509202-1e04e612-49c0-473b-930c-8e34551a6e76.png)
 
-### Reference Number 4.2 (Products Page)
+### Reference Number 4.2 (Merchandise Page)
 
-![image](https://user-images.githubusercontent.com/56872071/141195746-66487e5c-e889-4bd7-a799-8a1fad96c3b8.png)
+![image](https://user-images.githubusercontent.com/56872071/146509242-366691ec-7f94-4a99-aa5d-4bfa22601e5b.png)
 
 ## Reference Number 5.0 (Sign Up Page)
 
