@@ -43,9 +43,9 @@ Repository for the HCI project.
 
 ![image](https://user-images.githubusercontent.com/56872071/141195494-de3503f7-5052-43c8-8366-3fd9dae88bf4.png)
 
-### Reference Number 3.3 (Favorites Page)
+### Reference Number 3.3 (Category Page)
 
-![image](https://user-images.githubusercontent.com/56872071/141195542-c555540f-7f4a-4c65-8bf3-66faf3d19452.png)
+![image](https://user-images.githubusercontent.com/56872071/148098373-858b9ee5-51cf-4de8-ab6c-27e8d42a5b71.png)
 
 ## Reference Number 4.0 (Store Page)
 
@@ -62,3 +62,65 @@ Repository for the HCI project.
 ## Reference Number 5.0 (Sign Up Page)
 
 ![image](https://user-images.githubusercontent.com/56872071/141195596-cf8085e5-15e7-4cc6-aa50-175e4da0fac6.png)
+
+# Medium/High Fidelity Prototypes
+
+## Reference Number 0.0 (Home Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148096712-86b78969-e388-4027-a617-72d8b5ba52f2.png)
+
+## Reference Number 1.0 (About Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148097340-d21c12b9-98ba-4696-a4ec-a2f170909430.png)
+
+### Reference Number 1.1 (How It Started)
+
+![image](https://user-images.githubusercontent.com/56872071/148097454-a7597d9c-44f0-4cf0-b8d8-c8712b7fa52f.png)
+
+### Reference Number 1.2 (How It's Going)
+
+![image](https://user-images.githubusercontent.com/56872071/148097605-34926cf7-86aa-41d7-9b7f-3190dc816d7d.png)
+
+### Reference Number 2.0 (Contact Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148097690-0e9d6994-c225-48f0-9de8-cd05b111a4a9.png)
+
+### Reference Number 3.0 (Recipe Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148097866-f93d2f8a-0509-4941-8298-b16eea6ee4cb.png)
+
+### Reference Number 3.1 (Sweet Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148098033-0e00d9ab-fe17-4314-a640-a16fb0cbe15d.png)
+
+### Reference Number 3.2 (Savory Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148098151-61aee969-8f28-4555-bfdf-7bd602ee1aca.png)
+
+### Reference Number 3.3 (Category Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148098572-75fe19e8-87c8-48ff-9011-5bd74bc06d33.png)
+
+**Recipe pop-up**
+
+![image](https://user-images.githubusercontent.com/56872071/148098890-53be8820-8347-43b1-be98-30e8da042fc4.png)
+
+## Reference Number 4.0 (Store Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148110351-c1c12185-fe38-40af-ad5d-8fcb01f8f2ad.png)
+
+**Product pop-up**
+
+![image](https://user-images.githubusercontent.com/56872071/148110613-3b403d61-2651-4ebc-9b0f-c9edd7e9d668.png)
+
+### Reference Number 4.1 (Products Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148110429-6b8cf26c-9e0b-4bb6-8587-7e46971277b1.png)
+
+### Reference Number 4.2 (Merchandise Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148110510-c28627b4-1257-4000-ba85-bbac4901d421.png)
+
+## Reference Number 5.0 (Sign Up Page)
+
+![image](https://user-images.githubusercontent.com/56872071/148097890-6d0c4d1d-adee-4b6b-9ba2-8b0e18682cb8.png)
