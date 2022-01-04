@@ -71,39 +71,39 @@ Repository for the HCI project.
 
 ## Reference Number 1.0 (About Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148097340-d21c12b9-98ba-4696-a4ec-a2f170909430.png)
+![image](https://user-images.githubusercontent.com/56872071/148111106-cfd68b29-7ac9-45c9-bd2b-b888390ad0b2.png)
 
 ### Reference Number 1.1 (How It Started)
 
-![image](https://user-images.githubusercontent.com/56872071/148097454-a7597d9c-44f0-4cf0-b8d8-c8712b7fa52f.png)
+![image](https://user-images.githubusercontent.com/56872071/148111256-763a5f05-f98d-466c-b7e2-3f8b96257701.png)
 
 ### Reference Number 1.2 (How It's Going)
 
-![image](https://user-images.githubusercontent.com/56872071/148097605-34926cf7-86aa-41d7-9b7f-3190dc816d7d.png)
+![image](https://user-images.githubusercontent.com/56872071/148111353-79d0b357-8b91-43f7-81ec-89fe9f25c51b.png)
 
 ### Reference Number 2.0 (Contact Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148097690-0e9d6994-c225-48f0-9de8-cd05b111a4a9.png)
+![image](https://user-images.githubusercontent.com/56872071/148111413-49759d30-0e12-4ce6-9ca6-672f4d1a32b4.png)
 
 ### Reference Number 3.0 (Recipe Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148097866-f93d2f8a-0509-4941-8298-b16eea6ee4cb.png)
+![image](https://user-images.githubusercontent.com/56872071/148111502-cabc21a4-5b55-45fc-81ec-589e7b52a864.png)
 
 ### Reference Number 3.1 (Sweet Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148098033-0e00d9ab-fe17-4314-a640-a16fb0cbe15d.png)
+![image](https://user-images.githubusercontent.com/56872071/148111571-83b3cf05-f5b1-4aeb-88b4-580e96a4d1c9.png)
 
 ### Reference Number 3.2 (Savory Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148098151-61aee969-8f28-4555-bfdf-7bd602ee1aca.png)
+![image](https://user-images.githubusercontent.com/56872071/148111633-ed13f89b-d9ec-49ad-9da1-f22ac3fab5d8.png)
 
 ### Reference Number 3.3 (Category Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148098572-75fe19e8-87c8-48ff-9011-5bd74bc06d33.png)
+![image](https://user-images.githubusercontent.com/56872071/148111716-9e76a048-5397-4451-8229-3f92d0159ccb.png)
 
 **Recipe pop-up**
 
-![image](https://user-images.githubusercontent.com/56872071/148098890-53be8820-8347-43b1-be98-30e8da042fc4.png)
+![image](https://user-images.githubusercontent.com/56872071/148111797-cf48905a-8cae-4f79-b664-5e77c1120bd9.png)
 
 ## Reference Number 4.0 (Store Page)
 
@@ -111,7 +111,7 @@ Repository for the HCI project.
 
 **Product pop-up**
 
-![image](https://user-images.githubusercontent.com/56872071/148110613-3b403d61-2651-4ebc-9b0f-c9edd7e9d668.png)
+![image](https://user-images.githubusercontent.com/56872071/148112054-53e81642-29de-428a-af8f-e8d37fe5f17b.png)
 
 ### Reference Number 4.1 (Products Page)
 
@@ -123,4 +123,4 @@ Repository for the HCI project.
 
 ## Reference Number 5.0 (Sign Up Page)
 
-![image](https://user-images.githubusercontent.com/56872071/148097890-6d0c4d1d-adee-4b6b-9ba2-8b0e18682cb8.png)
+![image](https://user-images.githubusercontent.com/56872071/148112114-5c76ca95-c29f-4bad-831d-5ad4b7428020.png)
