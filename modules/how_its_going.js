@@ -19,11 +19,9 @@ const HowItsGoing = () => {
                         </div>
                         <div className="mt-10 w-5/6 text-justify">
                             <p className="font-raleway leading-8">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing
-                                elit, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud exercitation ullamco laboris nisi ut aliquip
-                                ex ea commodo consequat.
+                                I’ve morphed my love of making food with my former career as a magazine designing Creative Director to become a recipe creating, photo-taking, storytelling, food blogging content creator.
+                                <br />
+                                The web has become a virtual food buffet and I count my lucky stars that I’m a part of it.
                             </p>
                         </div>
                     </div>
