@@ -21,11 +21,9 @@ const About = () => {
                         </div>
                         <div className="mt-10 w-5/6 text-justify">
                             <p className="font-raleway leading-8">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing
-                                elit, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud exercitation ullamco laboris nisi ut aliquip
-                                ex ea commodo consequat.
+                                My name's Lindsey. I'm the voice, author, and creator behind Spooky Kitchen. What started as a casual hobby for nights and weekends
+                                while I was working as a fourth grade teacher has now grown into a full-blown business (!!) that reaches millions
+                                of people with fun recipes each month.
                             </p>
                         </div>
                     </div>
