@@ -12,8 +12,8 @@ const RecipeCategories = () => {
                         RECIPE CATEGORIES
                     </h2>
                 </div>
-                <div className="m-8 grid grid-cols-3 justify-evenly">
-                    <div className='flex flex-col text-center'>
+                <div className="mx-8 grid grid-cols-3 justify-evenly">
+                    <div className='flex flex-col text-center mt-8'>
                         <Link href="/recipes/sweet">
                             <button className="py-4 rounded-lg bg-orange-400 hover:bg-orange-500">
                                 <h3 className="text-xl font-shadow text-black hover:font-bold cursor-pointer">
@@ -44,7 +44,7 @@ const RecipeCategories = () => {
                             </Link>
                         </ul>
                     </div>
-                    <div className="flex justify-center align-start">
+                    <div className="flex justify-center">
                         <Image
                             src={Spiders}
                             layout="fixed"
@@ -53,7 +53,7 @@ const RecipeCategories = () => {
                             alt="Spiders"
                         />
                     </div>
-                    <div className='flex flex-col text-center'>
+                    <div className='flex flex-col text-center mt-8'>
                         <Link href="/recipes/savory">
                             <button className="py-4 rounded-lg bg-orange-400 hover:bg-orange-500">
 
