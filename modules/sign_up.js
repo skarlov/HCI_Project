@@ -18,11 +18,7 @@ const SignUpDetails = () => {
                     </div>
                     <div className="mt-10 text-justify px-20">
                         <p className="font-raleway leading-8">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip
-                            ex ea commodo consequat.
+                            Sign up for my email list to have every post delivered straight to your inbox (plus special offers, giveaways, and awesomeness only my email community receives!) It’s totally free and you can unsubscribe at any time. No feelings hurt, I promise.
                         </p>
 
                     </div>
