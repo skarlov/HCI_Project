@@ -41,14 +41,8 @@ const NavBar = () => {
                     alt="Search icon"
                 />
             </div>
-            <div className='m-2 ml-4 cursor-pointer rounded whitespace-nowrap hover:drop-shadow-md'>
-                <Image
-                    src={CartImg}
-                    layout="fixed"
-                    width={25}
-                    height={25}
-                    alt="Search icon"
-                />
+            <div className='m-2 ml-4 cursor-pointer rounded font-raleway whitespace-nowrap hover:drop-shadow-md'>
+                <Cart />
             </div>
         </nav>
     );
