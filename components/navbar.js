@@ -16,12 +16,10 @@ const menuItems = [
 
 const NavBar = () => {
     const router = useRouter();
-    const isActive = (pathname) =>
-        router.pathname.split("/")[1] === pathname.split("/")[1];
     return (
         <nav className="inline-flex list-none font-shadow">
             {menuItems.map((item, index) => {
-                const menuItemPath = index ? `/${slugify(item, { lower: true })}` : "/";
+                const menuItemPath = index ? `/${slugify(item, { lower: true })}` : "/about";
                 return (
                     <Link key={item} href={menuItemPath} passHref>
                         <li
