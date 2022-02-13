@@ -19,11 +19,7 @@ const CakesGrid = () => {
                         CAKES
                     </h1>
                     <p className="font-raleway m-6 leading-8">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua.
+                        Browse the best Halloween cake recipes!
                     </p>
                 </div>
                 <div className="grid grid-cols-3 gap-4">
