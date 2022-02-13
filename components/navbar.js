@@ -4,6 +4,8 @@ import slugify from 'slugify';
 import Link from 'next/link'
 import { useRouter } from 'next/router';
 
+import Cart from './cart';
+
 const menuItems = [
     'ABOUT',
     'RECIPES',
