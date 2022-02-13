@@ -27,11 +27,7 @@ const HowItStarted = () => {
                     </div>
                     <div className="mt-10 w-5/6 text-justify">
                         <p className="font-raleway leading-8">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip
-                            ex ea commodo consequat.
+                            From making after school snacks of Triscuits with liverwurst, pickles, and mustard to serving Thanksgiving dinner and my favorite turkey for 40, I’m the one you’ll find happily cooking away in the kitchen.
                         </p>
                     </div>
                     <LearnMoreHIS />
