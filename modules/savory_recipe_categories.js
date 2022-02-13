@@ -13,7 +13,7 @@ const SavoryRecipeCategories = () => {
                     </h2>
                 </div>
                 <div className="mx-8 grid grid-cols-3 justify-evenly">
-                    <div className='flex flex-col text-center mt-8'>
+                    <div className='flex flex-col text-center mt-8 px-8'>
                         <button className="py-4 rounded-lg bg-orange-400 hover:bg-orange-500">
                             <h3 className="text-xl font-shadow text-black hover:font-bold cursor-pointer">
                                 BY TYPE
@@ -66,7 +66,7 @@ const SavoryRecipeCategories = () => {
                             alt="Spiders"
                         />
                     </div>
-                    <div className='flex flex-col text-center mt-8'>
+                    <div className='flex flex-col text-center mt-8 px-8'>
                         <button className="py-4 rounded-lg bg-orange-400 hover:bg-orange-500">
                             <h3 className="text-xl font-shadow text-black">
                                 BY INGREDIENT
