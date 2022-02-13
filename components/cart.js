@@ -51,7 +51,7 @@ const Cart = () => {
 
 
 
-                        <div className="align-end text-center text-lg pt-6 w-20">£3.05</div>
+                        <div className="align-end text-center text-lg pt-6 w-20 font-bold">£3.05</div>
                     </div>
 
                     <div className="p-4 flex border-b-2">
@@ -77,7 +77,7 @@ const Cart = () => {
 
 
 
-                        <div className="align-end text-center text-lg pt-6 w-20">£10.00</div>
+                        <div className="align-end text-center text-lg pt-6 w-20 font-bold">£10.00</div>
                     </div>
 
                     <div className="p-4 flex border-b-2">
@@ -103,7 +103,7 @@ const Cart = () => {
 
 
 
-                        <div className="align-end text-center text-lg pt-6 w-20">£2.20</div>
+                        <div className="align-end text-center text-lg pt-6 w-20 font-bold">£2.20</div>
                     </div>
                     <div className="grid grid-cols-2 gap-6 p-6"><Checkout /><Continue /></div>
 
