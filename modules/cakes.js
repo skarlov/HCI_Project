@@ -37,8 +37,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        HALLOWEEN LAYER CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">HALLOWEEN LAYER CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
@@ -112,8 +123,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        EVIL EYES HALLOWEEN CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">EVIL EYES HALLOWEEN CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
@@ -189,8 +211,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        POISON APPLE CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">POISON APPLE CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
@@ -259,8 +292,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        HALLOWEEN SLASH CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">HALLOWEEN SLASH CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
@@ -333,8 +377,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        HALLOWEEN MONSTER CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">HALLOWEEN MONSTER CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
@@ -389,8 +444,19 @@ const CakesGrid = () => {
                         >
                             {close => (
                                 <div className="modal px-2 mb-4 rounded-lg">
-                                    <div className="text-xl w-auto py-4 p-2 text-center font-shadow">
-                                        JACK-O-LANTERN CAKE
+                                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                                        <div className="w-5/6 ml-20">JACK O LANTERN CAKE</div>
+                                        <div className="w-1/6 ml-2">
+                                            <button onClick={close}>
+                                                <Image
+                                                    src={Close}
+                                                    layout="intrinsic"
+                                                    width={15}
+                                                    height={15}
+                                                    alt="Close"
+                                                />
+                                            </button>
+                                        </div>
                                     </div>
                                     <div className="grid grid-cols-3 font-raleway">
                                         <div className="p-2"><Image
