@@ -24,8 +24,19 @@ const Cart = () => {
         >
             {close => (
                 <div className="bg-white font-raleway rounded-lg flex flex-col">
-                    <div className="font-shadow text-center text-xl w-auto py-4 p-2 border-b-2">
-                        SHOPPING CART
+                    <div className="font-shadow text-center flex flex-row text-xl w-auto py-4 p-2 border-b-2">
+                        <div className="w-5/6 ml-20">SHOPPING CART</div>
+                        <div className="w-1/6 ml-2">
+                            <button onClick={close}>
+                                <Image
+                                    src={Close}
+                                    layout="intrinsic"
+                                    width={15}
+                                    height={15}
+                                    alt="Close"
+                                />
+                            </button>
+                        </div>
                     </div>
 
                     <div className="p-4 flex border-b-2">
