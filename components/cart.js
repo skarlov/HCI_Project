@@ -1,5 +1,6 @@
 import Image from "next/image";
 import CartImg from "../assets/cart.png"
+import Close from "../assets/close.png"
 
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
