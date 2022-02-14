@@ -42,7 +42,7 @@ const Cart = () => {
                     <div className="p-4 flex border-b-2">
                         <div className="buttons">
                             <div>
-                                <i class="heart fa fa-heart-o"></i>
+                                <i className="heart fa fa-heart-o"></i>
                             </div>
                         </div>
 
@@ -68,7 +68,7 @@ const Cart = () => {
                     <div className="p-4 flex border-b-2">
                         <div className="buttons">
                             <div>
-                                <i class="heart fa fa-heart-o"></i>
+                                <i className="heart fa fa-heart-o"></i>
                             </div>
                         </div>
 
@@ -94,7 +94,7 @@ const Cart = () => {
                     <div className="p-4 flex border-b-2">
                         <div className="buttons">
                             <div>
-                                <i class="heart fa fa-heart-o"></i>
+                                <i className="heart fa fa-heart-o"></i>
                             </div>
                         </div>
 
