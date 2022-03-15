@@ -1,5 +1,5 @@
 # Spooky Kitchen
-Repository for the HCI project.
+Recipe website without back-end.
 
 # **Basic Sitemap**
 
